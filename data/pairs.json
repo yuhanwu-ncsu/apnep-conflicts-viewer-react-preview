@@ -1,0 +1,58 @@
+[
+  {
+    "pair": "Vessel Count x Submerged Aquatic Vegetation",
+    "label": "Vessel Count x Submerged Aquatic Vegetation",
+    "file": "data/vessel-sav.geojson",
+    "count": 2174,
+    "title": "Boat Traffic vs. SAV",
+    "bounds": [-77.228850876422, 34.594942742017, -75.451783890889, 36.852396106995]
+  },
+  {
+    "pair": "Fishing x Nursery Areas",
+    "label": "Fishing x Nursery Areas",
+    "file": "data/fishing-nursery.geojson",
+    "count": 1747,
+    "title": "Fishing vs. Closures or Energy Development",
+    "bounds": [-77.207625996323, 34.594942742017, -75.451783890889, 36.837321064181]
+  },
+  {
+    "pair": "Sea Level Rise x Ferry Route",
+    "label": "Sea Level Rise x Ferry Route",
+    "file": "data/slr-ferry.geojson",
+    "count": 1443,
+    "title": "Roads and Ferries vs. Flooding",
+    "bounds": [-77.650317918312, 34.594942742017, -75.451783890889, 36.561651766036]
+  },
+  {
+    "pair": "Shoreline Erosion x Wetland Potential",
+    "label": "Shoreline Erosion x Wetland Potential",
+    "file": "data/erosion-wetland.geojson",
+    "count": 9373,
+    "title": "Shoreline Protection vs. Wetland Migration",
+    "bounds": [-78.861963861969, 34.594942742017, -75.451783890889, 37.247797495467]
+  },
+  {
+    "pair": "Community Vulnerability x Tourism",
+    "label": "Community Vulnerability x Tourism",
+    "file": "data/vulnerability-tourism.geojson",
+    "count": 11905,
+    "title": "Tourism vs. Resident Access",
+    "bounds": [-79.237503687136, 34.632707652710, -75.451783890889, 37.247797495467]
+  },
+  {
+    "pair": "Agriculture x Salinity",
+    "label": "Salinity x Agriculture",
+    "file": "data/agriculture-salinity.geojson",
+    "count": 10651,
+    "title": "Agriculture vs. Saltwater Intrusion",
+    "bounds": [-79.237503687136, 34.594942742017, -75.451783890889, 37.247797495467]
+  },
+  {
+    "pair": "Community Vulnerability x Conservation",
+    "label": "Community Vulnerability x Conservation",
+    "file": "data/vulnerability-conservation.geojson",
+    "count": 11984,
+    "title": "Conservation vs. Tribal / Local Access",
+    "bounds": [-79.237503687136, 34.594942742017, -75.451783890889, 37.247797495467]
+  }
+]
